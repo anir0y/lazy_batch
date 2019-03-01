@@ -20,3 +20,11 @@
   ### Working:
   * power.bat have all arguments that launch commands based on CLI input
   * powermission.reg added this script with right click option.
+
+# How to use it?
+> create a directory in c drive with damn and put all script there. that's it.
+
+#### Or just follow my lead
+  * open command prompt
+  * type *cd / && mkdir damn && echo "put your downloaded script in here c:\damn"*
+  *  now put the downloaded script on damn folder
