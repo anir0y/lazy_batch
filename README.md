@@ -18,5 +18,5 @@
  * power.bat
  * powermission.reg
  ### Working:
- * power.bat have all args that launch commands based on CLI input
+ * power.bat have all arguments that launch commands based on CLI input
  * powermission.reg added this script with right click option.
