@@ -14,7 +14,7 @@
    * regadd.reg to run this thing with a right click. ;)
 
 # 2. Power mission control
- *Script used:
+ * Script used:
  * power.bat
  * powermission.reg
  ### Working:
