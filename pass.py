@@ -13,7 +13,7 @@ Follow me Here : @anir0y
 print banner
 reason = raw_input('What you need password for ? : ')
 x = int(raw_input("how much Charactors ? : "))
-b =(''.join(choice(ascii_lowercase + digits + ascii_uppercase) for i in range(x)))
+b =(''.join(choice(ascii_lowercase + digits + ascii_uppercase + digits) for i in range(x)))
 date = time.asctime()
 a = ("Created on " + str(date) + " Reason: " + str(reason))
 with open("C:/damn/passdb.exe", "a") as text_file:
