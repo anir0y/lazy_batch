@@ -1,6 +1,6 @@
 from random import choice
 from string import ascii_lowercase, digits, ascii_uppercase
-import time, os, sys
+import time, os
 banner = '''
 \n**************************************
 lazzy Password generator
